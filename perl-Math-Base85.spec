@@ -3,7 +3,7 @@
 Summary:	Math::Base85 - Perl extension for base 85 numbers, as referenced by RFC 1924
 Name:		perl-%{real_name}
 Version:	0.2
-Release: %mkrel 2
+Release: %mkrel 4
 License:	GPL or Artistic
 Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{real_name}
